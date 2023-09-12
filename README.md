@@ -1,0 +1,2 @@
+# Diwali-Sales-Analysis-using-Python
+This project focuses on examining sales data during the Diwali festival season. Python is utilized for data preprocessing, statistical analysis, and data visualization. Through EDA techniques, the project aims to uncover patterns, customer behaviors, and seasonal sales fluctuations, enabling businesses to make informed marketing and inventory decisions for maximizing profits during the Diwali festivities.
